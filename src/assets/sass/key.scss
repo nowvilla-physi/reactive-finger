@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+@import "_mixin.scss";
+
+.key {
+    @include button();
+    margin: 2px 8px;
+    padding: 8px 16px;
+    border-bottom: solid 3px $key-shadow-color;
+    background-color: $key-bg-color;
+    color: $key-color;
+}

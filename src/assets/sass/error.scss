@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+
+.error {
+    padding-bottom: 64px;
+    text-align: center;
+
+    &__status-code {
+        font-size: 7rem;
+    }
+
+    &__message {
+        color: $gray;
+        margin-top: 8px;
+        font-size: $division-size;
+        font-weight: bold;
+    }
+
+    &__image {
+        height: 400px;
+        width: 400px;
+        margin-bottom: 40px;
+    }
+}

@@ -1,2 +1,20 @@
+# dependencies
 node_modules/
+
+# production
 build
+
+# Firebase resources
+.firebaserc
+.firebase
+firestore.rules
+src/webhookConfig.js
+src/firebase/config.js
+
+package-lock.json
+
+# environmental config
+.env
+
+# Intellij IDEA files
+.idea/

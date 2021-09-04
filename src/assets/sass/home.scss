@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+@import "_breakpoints.scss";
+@import "_mixin.scss";
+@import "_enterkey-responsive.scss";
+
+.home {
+    margin-top: 40px;
+    padding-bottom: 64px;
+    text-align: center;
+
+    &__keys {
+        &--top {
+            @include keys-position(0, 0, 4px, 0);
+        }
+
+        &--middle-top {
+            @include keys-position(0, 72px, 4px, 0);
+            position: relative;
+
+            &--enterkey {
+                position: absolute;
+                top: 0;
+                right: 5.0%;
+                @include enterkey-responsive();
+            }
+        }
+
+        &--middle-bottom {
+            @include keys-position(0, 24px, 4px, 0);
+        }
+
+        &--bottom {
+            @include keys-position(0, 0, 16px, 64px);
+        }
+    }
+}

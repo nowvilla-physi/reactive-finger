@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+@import "variables";
+
+@mixin mq($breakpoint) {
+    @media #{map-get($breakpoints, $breakpoint)} {
+        @content;
+    }
+}
+
+@mixin button() {
+    display: inline-block;
+    padding: 8px 24px;
+    border-radius: 4px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+    font-weight: bold;
+
+    &:active {
+        border-bottom: none;
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
+        -webkit-transform: translateY(4px);
+        transform: translateY(4px);
+    }
+}
+
+@mixin note-description {
+    margin-top: 16px;
+    font-size: $division-size;
+    text-align: left;
+}
+
+@mixin keys-position(
+    $margin-top,
+    $margin-right,
+    $margin-bottom,
+    $margin-left
+    ) {
+    margin: $margin-top $margin-right $margin-bottom $margin-left;
+    text-align: center
+}
+
+@mixin typing-init-and-finish-text-position() {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: $section-size;
+    transform: translate(-50%, -50%);
+}

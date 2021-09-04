@@ -1,0 +1,181 @@
+@charset "utf-8";
+
+@import "_breakpoints.scss";
+
+@mixin enterkey-responsive() {
+    @include mq(pc-2000) {
+        right: 5.0%;
+    }
+
+    @include mq(pc-1980) {
+        right: 5.3%;
+    }
+
+    @include mq(pc-1880) {
+        right: 5.4%;
+    }
+
+    @include mq(pc-1780) {
+        right: 5.8%;
+    }
+
+    @include mq(pc-1680) {
+        right: 6.1%;
+    }
+
+    @include mq(pc-1580) {
+        right: 6.4%;
+    }
+
+    @include mq(pc-1480) {
+        right: 6.8%;
+    }
+
+    @include mq(pc-1380) {
+        right: 7.0%;
+    }
+
+    @include mq(pc-1280) {
+        right: 7.3%;
+    }
+
+    @include mq(pc-1270) {
+        right: 7.0%;
+    }
+
+    @include mq(pc-1260) {
+        right: 6.7%;
+    }
+
+    @include mq(pc-1250) {
+        right: 6.3%;
+    }
+
+    @include mq(pc-1240) {
+        right: 5.8%;
+    }
+
+    @include mq(pc-1230) {
+        right: 5.5%;
+    }
+
+    @include mq(pc-1220) {
+        right: 5.1%;
+    }
+
+    @include mq(pc-1210) {
+        right: 4.7%;
+    }
+
+    @include mq(pc-1200) {
+        right: 4.4%;
+    }
+
+    @include mq(pc-1200) {
+        right: 4.4%;
+    }
+
+    @include mq(pc-1190) {
+        right: 4.03%;
+    }
+
+    @include mq(pc-1180) {
+        right: 3.6%;
+    }
+
+    @include mq(pc-1170) {
+        right: 3.0%;
+    }
+
+    @include mq(pc-1160) {
+        right: 2.5%;
+    }
+
+    @include mq(pc-1150) {
+        right: 2.0%;
+    }
+
+    @include mq(pc-1140) {
+        right: 1.7%;
+    }
+
+    @include mq(pc-1130) {
+        right: 1.3%;
+    }
+
+    @include mq(pc-1120) {
+        right: 0.9%;
+    }
+
+    @include mq(pc-1110) {
+        right: 0.4%;
+    }
+
+    @include mq(pc-1100) {
+        right: 0;
+    }
+
+    @include mq(pc-1090) {
+        right: -0.7%;
+    }
+
+    @include mq(pc-1080) {
+        right: -1.2%;
+    }
+
+    @include mq(pc-1070) {
+        right: -1.7%;
+    }
+
+    @include mq(pc-1060) {
+        right: -2.2%;
+    }
+
+    @include mq(pc-1050) {
+        right: -2.7%;
+    }
+
+    @include mq(pc-1040) {
+        right: -3.2%;
+    }
+
+    @include mq(pc-1030) {
+        right: -3.7%;
+    }
+
+    @include mq(pc-1020) {
+        right: -4.4%;
+    }
+
+    @include mq(pc-1010) {
+        right: -5.0%;
+    }
+
+    @include mq(pc-1000) {
+        right: -5.6%;
+    }
+
+    @include mq(pc-990) {
+        right: -6.4%;
+    }
+
+    @include mq(pc-980) {
+        right: -7%;
+    }
+
+    @include mq(pc-970) {
+        right: -7.7%;
+    }
+
+    @include mq(pc-960) {
+        right: -8.2%;
+    }
+
+    @include mq(pc-950) {
+        right: -8.7%;
+    }
+
+    @include mq(pc-948) {
+        right: -9%;
+    }
+}

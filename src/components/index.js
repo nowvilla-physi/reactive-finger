@@ -1,0 +1,13 @@
+export { default as Button } from './Button';
+export { default as EnterKey } from './EnterKey';
+export { default as Error } from './Error';
+export { default as Footer } from './Footer';
+export { default as Header } from './Header';
+export { default as Home } from './Home';
+export { default as Key } from './Key';
+export { default as Ranking } from './Ranking';
+export { default as Note } from './Note';
+export { default as Problem } from './Probrem';
+export { default as Score } from './Score';
+export { default as StartTyping } from './StartTyping';
+export { default as Typing } from './Typing';

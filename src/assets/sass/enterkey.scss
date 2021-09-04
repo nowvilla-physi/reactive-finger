@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+@import "_mixin.scss";
+
+.enterkey {
+    @include button();
+    position: relative;
+    margin: 2px 8px;
+    border-bottom: solid 3px $key-shadow-color;
+    background-color: $key-bg-color;
+    color: $key-color;
+
+    &::after {
+        position: absolute;
+        left: 30%;
+        top: 96%;
+        height: 56px;
+        width: 70%;
+        border-bottom: solid 3px $key-shadow-color;
+        border-left: soild 2px $red;
+        border-right: soild 2px $key-shadow-color;
+        border-radius: 0 0 4px 4px;
+        background-color: $key-bg-color;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+        content: '';
+    }
+
+    &:active::after {
+        border-bottom: none;
+        box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "score",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "typeSpeed",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "correctType",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "incorrectType",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "playDate",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+@import "_mixin.scss";
+
+.button {
+    &--primary {
+        @include button();
+        border-bottom: solid 3px $key-shadow-color;
+        background-color: $key-bg-color;
+        color: $key-color;
+    }
+
+    &--error {
+        @include button();
+        border-bottom: solid 3px $button-error-border-color;
+        background-color: $button-error-color;
+        color: $white;
+    }
+}

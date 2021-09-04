@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+
+.problem {
+    margin-top: 120px;
+    text-align: center;
+    font-size: $chapter-size;
+    letter-spacing: 8px;
+
+    &__expected {
+        color: $main-color;
+    }
+}
