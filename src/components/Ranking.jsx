@@ -29,10 +29,10 @@ const Ranking = () => {
                     const result = doc.data();
                     const data = {
                         [Strings.RANKING_TABLE_HEADER_NAME]: result.name,
-                        [Strings.RANKING_TABLE_HEADER_TYPE_SPEED]: result.typeSpeed,
-                        [Strings.RANKING_TABLE_HEADER_CORRECT_TYPE]: result.correctType,
-                        [Strings.RANKING_TABLE_HEADER_INCORRECT_TYPE]: result.incorrectType,
-                        [Strings.RANKING_TABLE_HEADER_PLAY_DATE]: format(result.playDate.toDate(), 'yyyy-MM-dd hh:mm:ss')
+                        [Strings.RANKING_TABLE_HEADER_TYPE_SPEED]: result.typeSpeed.toPrecision(2),
+                        [Strings.RANKING_TABLE_HEADER_CORRECT_TYPE]: result.correctType.toString(),
+                        [Strings.RANKING_TABLE_HEADER_INCORRECT_TYPE]: result.incorrectType.toString(),
+                        [Strings.RANKING_TABLE_HEADER_PLAY_DATE]: format(result.playDate.toDate(), 'yyyy/MM/dd HH:mm:ss')
                     };
                     updateTableData(data);
                 })
