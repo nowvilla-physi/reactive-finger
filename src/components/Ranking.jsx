@@ -7,8 +7,11 @@ import '../assets/sass/ranking.scss';
 import { Button, Key } from '../components/index';
 import { db } from '../firebase/index';
 import * as Strings from '../strings';
+import actions from '../reducks/games/actions';
+import { useDispatch } from 'react-redux';
 
 const Ranking = () => {
+    const dispatch = useDispatch();
     const [data, setData] = useState([]);
     const updateTableData = (newData) => {
         setData(prevData =>
@@ -20,8 +23,8 @@ const Ranking = () => {
         (async () => {
             await db.collection('score')
                 .orderBy('typeSpeed', 'desc')
-                .orderBy('correctType', 'desc')
                 .orderBy('incorrectType')
+                .orderBy('correctType', 'desc')
                 .orderBy('playDate', 'desc')
                 .get()
                 .then(snapshots => {
@@ -39,7 +42,7 @@ const Ranking = () => {
             }).catch((error) => {
                 console.log(error);
                 toError();
-            })
+            });
         })();
     }, []);
 
@@ -51,6 +54,7 @@ const Ranking = () => {
         history.push(Strings.ERROR_URL);
     };
     const toStart = () => {
+        dispatch(actions.resetGame());
         history.push(Strings.START_TYPING_URL);
     };
 
@@ -65,7 +69,14 @@ const Ranking = () => {
                 <Key spell={ 'N' } />
                 <Key spell={ 'G' } />
             </div>
-            <ReactFlexyTable data={data} pageSize={50} pageSizeOptions={[10, 20 ,30, 40, 50]}/>
+            <ReactFlexyTable
+                data={ data }
+                pageSize={ 10 }
+                pageSizeOptions={ [10, 20 ,30, 40, 50] }
+                sortable={ true }
+                previousText = { Strings.RANKING_TABLE_PREVIOUS }
+                nextText = { Strings.RANKING_TABLE_NEXT }
+            />
             <div className='ranking__buttons'>
                 <Button
                     className={ 'button--primary' }

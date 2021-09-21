@@ -3,6 +3,7 @@ export const HOME_NOTE_TITLE = '注意事項';
 export const HOME_NOTE_INTRODUCTION = '『Reactive-Finger』はローマ字またはアルファベット用のタイピングゲームです。';
 export const HOME_NOTE_METHOD = 'Webブラウザで無料で遊べますので、ちょっとした空き時間や暇つぶしにプレイしてみてください。';
 export const HOME_NOTE_QUESTIONS = '1プレイ「20問」です。';
+export const HOME_NOTE_TYPE_KIND = '柔軟なタイプが可能です。(例：si → shi、syo → sho)';
 export const HOME_NOTE_PRIVACY = 'ゲーム終了後、自分のスコアを登録することができますが、個人情報は決して入力しないで下さい。';
 export const HOME_NOTE_RESPONSIBILITY = '責任は負いかねますのでご了承ください。';
 export const HOME_NOTE_CONTACT = '何かしら不具合や要望がございましたら、お手数ですが以下からご連絡をお願いいたします。';
@@ -30,6 +31,8 @@ export const RANKING_TABLE_HEADER_TYPE_SPEED = '平均キータイプ数(回/秒
 export const RANKING_TABLE_HEADER_CORRECT_TYPE = '正しく打ったキーの数(回)';
 export const RANKING_TABLE_HEADER_INCORRECT_TYPE = 'ミスタイプ数(回)';
 export const RANKING_TABLE_HEADER_PLAY_DATE = '登録時間';
+export const RANKING_TABLE_PREVIOUS = '<< 前のページへ';
+export const RANKING_TABLE_NEXT = '次のページへ >>';
 
 // スコア画面
 export const SCORE_REGISTER_INDUCTION_BUTTON = '結果を登録する';

@@ -9,12 +9,12 @@
           "order": "DESCENDING"
         },
         {
-          "fieldPath": "correctType",
-          "order": "DESCENDING"
-        },
-        {
           "fieldPath": "incorrectType",
           "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "correctType",
+          "order": "DESCENDING"
         },
         {
           "fieldPath": "playDate",
