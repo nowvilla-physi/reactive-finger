@@ -1,1204 +1,1204 @@
 {
   "questions": [
     {
-      "kana": "時は金なり",
-      "alphabet": "tokihakanenari"
+      "displayName": "時は金なり",
+      "hiragana": "ときはかねなり"
     },
     {
-      "kana": "七転び八起き",
-      "alphabet": "nanakorobiyaoki"
+      "displayName": "七転び八起き",
+      "hiragana": "ななころびやおき"
     },
     {
-      "kana": "失敗は成功の基",
-      "alphabet": "sippaihaseikonomoto"
+      "displayName": "失敗は成功の基",
+      "hiragana": "しっぱいはせいこうのもと"
     },
     {
-      "kana": "終わり良ければすべて良し",
-      "alphabet": "owariyokerebasubeteyosi"
+      "displayName": "終わり良ければすべて良し",
+      "hiragana": "おわりよければすべてよし"
     },
     {
-      "kana": "情けは人の為ならず",
-      "alphabet": "nasakehahitonotamenarazu"
+      "displayName": "情けは人の為ならず",
+      "hiragana": "なさけはひとのためならず"
     },
     {
-      "kana": "人間万事塞翁が馬",
-      "alphabet": "ninngennbannzisaiougauma"
+      "displayName": "人間万事塞翁が馬",
+      "hiragana": "にんげんばんじさいおうがうま"
     },
     {
-      "kana": "ブルータスお前もか",
-      "alphabet": "buru-tasuomaemoka"
+      "displayName": "ブルータスお前もか",
+      "hiragana": "ぶるーたすおまえもか"
     },
     {
-      "kana": "動かざること山の如し",
-      "alphabet": "ugokazarukotoyamanogotosi"
+      "displayName": "動かざること山の如し",
+      "hiragana": "うごかざることやまのごとし"
     },
     {
-      "kana": "すもももももももものうち",
-      "alphabet": "sumomomomomomomomonouti"
+      "displayName": "すもももももももものうち",
+      "hiragana": "すもももももももものうち"
     },
     {
-      "kana": "生麦生米生卵",
-      "alphabet": "namamuginamagomenamatamago"
+      "displayName": "生麦生米生卵",
+      "hiragana": "なまむぎなまごめなまたまご"
     },
     {
-      "kana": "老若男女",
-      "alphabet": "rounyakunannnyo"
+      "displayName": "老若男女",
+      "hiragana": "ろうにゃくなんにょ"
     },
     {
-      "kana": "赤パジャマ黄パジャマ茶パジャマ",
-      "alphabet": "akapajamakipajamatyapajama"
+      "displayName": "赤パジャマ黄パジャマ茶パジャマ",
+      "hiragana": "あかぱじゃまきぱじゃまちゃぱじゃま"
     },
     {
-      "kana": "自問自答",
-      "alphabet": "jimonnjitou"
+      "displayName": "自問自答",
+      "hiragana": "じもんじとう"
     },
     {
-      "kana": "ええいああ君からもらい泣き",
-      "alphabet": "eeiaakimikaramorainaki"
+      "displayName": "ええいああ君からもらい泣き",
+      "hiragana": "ええいああきみからもらいなき"
     },
     {
-      "kana": "この釘はひきぬきにくい",
-      "alphabet": "konokugihahikinukinikui"
+      "displayName": "この釘はひきぬきにくい",
+      "hiragana": "このくぎはひきぬきにくい"
     },
     {
-      "kana": "魔術師魔術修業中",
-      "alphabet": "majutusimajutusyugyoutyuu"
+      "displayName": "魔術師魔術修業中",
+      "hiragana": "まじゅつしまじゅつしゅぎょうちゅう"
     },
     {
-      "kana": "不幸な夫婦は古い服",
-      "alphabet": "hukounahuuhuhahuruihuku"
+      "displayName": "不幸な夫婦は古い服",
+      "hiragana": "ふこうなふうふはふるいふく"
     },
     {
-      "kana": "庭には鶏が二羽いました",
-      "alphabet": "niwanihatoriganiwaimasita"
+      "displayName": "庭には鶏が二羽いました",
+      "hiragana": "にわにはとりがにわいました"
     },
     {
-      "kana": "東京特許許可局",
-      "alphabet": "toukyoutokkyokyokakyoku"
+      "displayName": "東京特許許可局",
+      "hiragana": "とうきょうとっきょきょかきょく"
     },
     {
-      "kana": "恋するうさぎちゃん",
-      "alphabet": "koisuruusagityann"
+      "displayName": "恋するうさぎちゃん",
+      "hiragana": "こいするうさぎちゃん"
     },
     {
-      "kana": "あぶりカルビ",
-      "alphabet": "aburikarubi"
+      "displayName": "あぶりカルビ",
+      "hiragana": "あぶりかるび"
     },
     {
-      "kana": "新春シャンソンショー",
-      "alphabet": "sinnsyunnsyannsonnsyo-"
+      "displayName": "新春シャンソンショー",
+      "hiragana": "しんしゅんしゃんそんしょー"
     },
     {
-      "kana": "君の手で切り裂いて",
-      "alphabet": "kiminotedekirisaite"
+      "displayName": "君の手で切り裂いて",
+      "hiragana": "きみのてできりさいて"
     },
     {
-      "kana": "信念は山をも動かす",
-      "alphabet": "sinnnennnhayamawomougokasu"
+      "displayName": "信念は山をも動かす",
+      "hiragana": "しんねんんはやまをもうごかす"
     },
     {
-      "kana": "遊ぶ前にまず仕事",
-      "alphabet": "asobumaenimazusigoto"
+      "displayName": "遊ぶ前にまず仕事",
+      "hiragana": "あそぶまえにまずしごと"
     },
     {
-      "kana": "駆け出しエンジニア",
-      "alphabet": "kakedasiennjinia"
+      "displayName": "駆け出しエンジニア",
+      "hiragana": "かけだしえんじにあ"
     },
     {
-      "kana": "大事なことから先にやれ",
-      "alphabet": "daijinakotokarasakiniyare"
+      "displayName": "大事なことから先にやれ",
+      "hiragana": "だいじなことからさきにやれ"
     },
     {
-      "kana": "やる気ある?",
-      "alphabet": "yarukiaru?"
+      "displayName": "やる気ある?",
+      "hiragana": "やるきある?"
     },
     {
-      "kana": "神は細部に宿る",
-      "alphabet": "kamihasaibuniyadoru"
+      "displayName": "神は細部に宿る",
+      "hiragana": "かみはさいぶにやどる"
     },
     {
-      "kana": "愛",
-      "alphabet": "ai"
+      "displayName": "愛",
+      "hiragana": "あい"
     },
     {
-      "kana": "親の光は七光",
-      "alphabet": "oyanohikarihananahikari"
+      "displayName": "親の光は七光",
+      "hiragana": "おやのひかりはななひかり"
     },
     {
-      "kana": "蛙の子は蛙",
-      "alphabet": "kaerunokohakaeru"
+      "displayName": "蛙の子は蛙",
+      "hiragana": "かえるのこはかえる"
     },
     {
-      "kana": "ああ言えばこう言う",
-      "alphabet": "aaiebakouiu"
+      "displayName": "ああ言えばこう言う",
+      "hiragana": "ああいえばこういう"
     },
     {
-      "kana": "開いた口が塞がらない",
-      "alphabet": "aitakutigahusagaranai"
+      "displayName": "開いた口が塞がらない",
+      "hiragana": "あいたくちがふさがらない"
     },
     {
-      "kana": "阿吽の呼吸",
-      "alphabet": "aunnnokokyuu"
+      "displayName": "阿吽の呼吸",
+      "hiragana": "あうんのこきゅう"
     },
     {
-      "kana": "揚げ足を取る",
-      "alphabet": "ageasiwotoru"
+      "displayName": "揚げ足を取る",
+      "hiragana": "あげあしをとる"
     },
     {
-      "kana": "明日は明日の風が吹く",
-      "alphabet": "asitahaasitanokazegahuku"
+      "displayName": "明日は明日の風が吹く",
+      "hiragana": "あしたはあしたのかぜがふく"
     },
     {
-      "kana": "暑さ寒さも彼岸まで",
-      "alphabet": "atusasamusamohigannmade"
+      "displayName": "暑さ寒さも彼岸まで",
+      "hiragana": "あつささむさもひがんまで"
     },
     {
-      "kana": "後は野となれ山となれ",
-      "alphabet": "atohanotonareyamatonare"
+      "displayName": "後は野となれ山となれ",
+      "hiragana": "あとはのとなれやまとなれ"
     },
     {
-      "kana": "危ない橋を渡る",
-      "alphabet": "abunaihasiwowataru"
+      "displayName": "危ない橋を渡る",
+      "hiragana": "あぶないはしをわたる"
     },
     {
-      "kana": "甘い汁を吸う",
-      "alphabet": "amaisiruwosuu"
+      "displayName": "甘い汁を吸う",
+      "hiragana": "あまいしるをすう"
     },
     {
-      "kana": "案ずるより産むが易し",
-      "alphabet": "annzuruyoriumugayasusi"
+      "displayName": "案ずるより産むが易し",
+      "hiragana": "あんずるよりうむがやすし"
     },
     {
-      "kana": "石の上にも三年",
-      "alphabet": "isinouenimosannnenn"
+      "displayName": "石の上にも三年",
+      "hiragana": "いしのうえにもさんねん"
     },
     {
-      "kana": "石橋を叩いて渡る",
-      "alphabet": "isibasiwotataitewataru"
+      "displayName": "石橋を叩いて渡る",
+      "hiragana": "いしばしをたたいてわたる"
     },
     {
-      "kana": "急がば回れ",
-      "alphabet": "isogabamaware"
+      "displayName": "急がば回れ",
+      "hiragana": "いそがばまわれ"
     },
     {
-      "kana": "有給休暇",
-      "alphabet": "yuukyuukyuuka"
+      "displayName": "有給休暇",
+      "hiragana": "ゆうきゅうきゅうか"
     },
     {
-      "kana": "一難去ってまた一難",
-      "alphabet": "itinannsattemataitinann"
+      "displayName": "一難去ってまた一難",
+      "hiragana": "いちなんさってまたいちなん"
     },
     {
-      "kana": "一を聞いて十を知る",
-      "alphabet": "itiwokiitejuuwosiru"
+      "displayName": "一を聞いて十を知る",
+      "hiragana": "いちをきいてじゅうをしる"
     },
     {
-      "kana": "犬も歩けば棒にあたる",
-      "alphabet": "inumoarukebabouniataru"
+      "displayName": "犬も歩けば棒にあたる",
+      "hiragana": "いぬもあるけばぼうにあたる"
     },
     {
-      "kana": "烏合の衆",
-      "alphabet": "ugounosyuu"
+      "displayName": "烏合の衆",
+      "hiragana": "うごうのしゅう"
     },
     {
-      "kana": "嘘つきは泥棒の始まり",
-      "alphabet": "usotukihadorobounohajimari"
+      "displayName": "嘘つきは泥棒の始まり",
+      "hiragana": "うそつきはどろぼうのはじまり"
     },
     {
-      "kana": "嘘も方便",
-      "alphabet": "usomohoubenn"
+      "displayName": "嘘も方便",
+      "hiragana": "うそもほうべん"
     },
     {
-      "kana": "美しい花には刺がある",
-      "alphabet": "utukusiihananihatogegaaru"
+      "displayName": "美しい花には刺がある",
+      "hiragana": "うつくしいはなにはとげがある"
     },
     {
-      "kana": "馬の耳に念仏",
-      "alphabet": "umanomimininennbutu"
+      "displayName": "馬の耳に念仏",
+      "hiragana": "うまのみみにねんぶつ"
     },
     {
-      "kana": "絵に描いた餅",
-      "alphabet": "enikaitamoti"
+      "displayName": "絵に描いた餅",
+      "hiragana": "えにかいたもち"
     },
     {
-      "kana": "お茶を濁す",
-      "alphabet": "otyawonigosu"
+      "displayName": "お茶を濁す",
+      "hiragana": "おちゃをにごす"
     },
     {
-      "kana": "縁の下の力持ち",
-      "alphabet": "ennnositanotikaramoti"
+      "displayName": "縁の下の力持ち",
+      "hiragana": "えんのしたのちからもち"
     },
     {
-      "kana": "鬼に金棒",
-      "alphabet": "oninikanabou"
+      "displayName": "鬼に金棒",
+      "hiragana": "おににかなぼう"
     },
     {
-      "kana": "鬼の目にも涙",
-      "alphabet": "oninomenimonamida"
+      "displayName": "鬼の目にも涙",
+      "hiragana": "おにのめにもなみだ"
     },
     {
-      "kana": "親の心子知らず",
-      "alphabet": "oyanokokorokosirazu"
+      "displayName": "親の心子知らず",
+      "hiragana": "おやのこころこしらず"
     },
     {
-      "kana": "女心と秋の空",
-      "alphabet": "onnnagokorotoakinosora"
+      "displayName": "女心と秋の空",
+      "hiragana": "おんなごころとあきのそら"
     },
     {
-      "kana": "恩を仇で返す",
-      "alphabet": "onnwoadadekaesu"
+      "displayName": "恩を仇で返す",
+      "hiragana": "おんをあだでかえす"
     },
     {
-      "kana": "火事場の馬鹿力",
-      "alphabet": "kajibanobakajikara"
+      "displayName": "火事場の馬鹿力",
+      "hiragana": "かじばのばかじから"
     },
     {
-      "kana": "風が吹けば桶屋が儲かる",
-      "alphabet": "kazehukebaokeyagamoukaru"
+      "displayName": "風が吹けば桶屋が儲かる",
+      "hiragana": "かぜふけばおけやがもうかる"
     },
     {
-      "kana": "固唾を吞む",
-      "alphabet": "katazuwonomu"
+      "displayName": "固唾を吞む",
+      "hiragana": "かたずをのむ"
     },
     {
-      "kana": "壁に耳あり障子に目あり",
-      "alphabet": "kabenimimiarisyoujinimeari"
+      "displayName": "壁に耳あり障子に目あり",
+      "hiragana": "かべにみみありしょうじにめあり"
     },
     {
-      "kana": "果報は寝て待て",
-      "alphabet": "kahouhanetemate"
+      "displayName": "果報は寝て待て",
+      "hiragana": "かほうはねてまて"
     },
     {
-      "kana": "亀の甲より年の劫",
-      "alphabet": "kamenokouyoritosinokou"
+      "displayName": "亀の甲より年の劫",
+      "hiragana": "かめのこうよりとしのこう"
     },
     {
-      "kana": "可愛い子には旅をさせよ",
-      "alphabet": "kawaiikonihatabiwosaseyo"
+      "displayName": "可愛い子には旅をさせよ",
+      "hiragana": "かわいいこにはたびをさせよ"
     },
     {
-      "kana": "堪忍袋の緒が切れる",
-      "alphabet": "kannninnbukuronoogakireru"
+      "displayName": "堪忍袋の緒が切れる",
+      "hiragana": "かんにんぶくろのおがきれる"
     },
     {
-      "kana": "机上の空論",
-      "alphabet": "kijounokuuronn"
+      "displayName": "机上の空論",
+      "hiragana": "きじょうのくうろん"
     },
     {
-      "kana": "犬猿の仲",
-      "alphabet": "kennennnonaka"
+      "displayName": "犬猿の仲",
+      "hiragana": "けんえんのなか"
     },
     {
-      "kana": "海賊王におれはなる",
-      "alphabet": "kaizokuouniorehanaru"
+      "displayName": "海賊王におれはなる",
+      "hiragana": "かいぞくおうにおれはなる"
     },
     {
-      "kana": "鯉の滝登り",
-      "alphabet": "koinotakinobori"
+      "displayName": "鯉の滝登り",
+      "hiragana": "こいのたきのぼり"
     },
     {
-      "kana": "光陰矢の如し",
-      "alphabet": "kouinnyanogotosi"
+      "displayName": "光陰矢の如し",
+      "hiragana": "こういんやのごとし"
     },
     {
-      "kana": "後悔先に立たず",
-      "alphabet": "koukaisakinitatazu"
+      "displayName": "後悔先に立たず",
+      "hiragana": "こうかいさきにたたず"
     },
     {
-      "kana": "攻撃は最大の防御",
-      "alphabet": "kougekihasaidainobougyo"
+      "displayName": "攻撃は最大の防御",
+      "hiragana": "こうげきはさいだいのぼうぎょ"
     },
     {
-      "kana": "五十歩百歩",
-      "alphabet": "gojuppohyappo"
+      "displayName": "五十歩百歩",
+      "hiragana": "ごじゅっぽひゃっぽ"
     },
     {
-      "kana": "虎穴に入らずんば虎子を得ず",
-      "alphabet": "koketuniirazunnbakojiwoezu"
+      "displayName": "虎穴に入らずんば虎子を得ず",
+      "hiragana": "こけつにいらずんばこじをえず"
     },
     {
-      "kana": "鯖を読む",
-      "alphabet": "sabawoyomu"
+      "displayName": "鯖を読む",
+      "hiragana": "さばをよむ"
     },
     {
-      "kana": "猿も木から落ちる",
-      "alphabet": "sarumokikaraotiru"
+      "displayName": "猿も木から落ちる",
+      "hiragana": "さるもきからおちる"
     },
     {
-      "kana": "三度目の正直",
-      "alphabet": "sanndomenosyoujiki"
+      "displayName": "三度目の正直",
+      "hiragana": "さんどめのしょうじき"
     },
     {
-      "kana": "三人よれば文殊の知恵",
-      "alphabet": "sannninnyorebamonnjunotie"
+      "displayName": "三人よれば文殊の知恵",
+      "hiragana": "さんにんよればもんじゅのちえ"
     },
     {
-      "kana": "敷居が高い",
-      "alphabet": "sikiigatakai"
+      "displayName": "敷居が高い",
+      "hiragana": "しきいがたかい"
     },
     {
-      "kana": "親しき仲に礼儀あり",
-      "alphabet": "sitasikinakanimoreigiari"
+      "displayName": "親しき仲に礼儀あり",
+      "hiragana": "したしきなかにもれいぎあり"
     },
     {
-      "kana": "死人に口なし",
-      "alphabet": "sininnnikutinasi"
+      "displayName": "死人に口なし",
+      "hiragana": "しにんにくちなし"
     },
     {
-      "kana": "少年よ大志を抱け",
-      "alphabet": "syounennyotaisiwoidake"
+      "displayName": "少年よ大志を抱け",
+      "hiragana": "しょうねんよたいしをいだけ"
     },
     {
-      "kana": "初心忘るべからず",
-      "alphabet": "syosinnwasurubekarazu"
+      "displayName": "初心忘るべからず",
+      "hiragana": "しょしんわするべからず"
     },
     {
-      "kana": "知らぬが仏",
-      "alphabet": "siranugahotoke"
+      "displayName": "知らぬが仏",
+      "hiragana": "しらぬがほとけ"
     },
     {
-      "kana": "雀の涙",
-      "alphabet": "suzumenonamida"
+      "displayName": "雀の涙",
+      "hiragana": "すずめのなみだ"
     },
     {
-      "kana": "善は急げ",
-      "alphabet": "zennhaisoge"
+      "displayName": "善は急げ",
+      "hiragana": "ぜんはいそげ"
     },
     {
-      "kana": "大は小を兼ねる",
-      "alphabet": "daihasyouwokaneru"
+      "displayName": "大は小を兼ねる",
+      "hiragana": "だいはしょうをかねる"
     },
     {
-      "kana": "高嶺の花",
-      "alphabet": "takanenohana"
+      "displayName": "高嶺の花",
+      "hiragana": "たかねのはな"
     },
     {
-      "kana": "宝の持ち腐れ",
-      "alphabet": "takaranomotigusare"
+      "displayName": "宝の持ち腐れ",
+      "hiragana": "たからのもちぐされ"
     },
     {
-      "kana": "ただより高いものはない",
-      "alphabet": "tadayoritakaimonohanai"
+      "displayName": "ただより高いものはない",
+      "hiragana": "ただよりたかいものはない"
     },
     {
-      "kana": "立つ鳥跡を濁さず",
-      "alphabet": "tatutoriatowonigosazu"
+      "displayName": "立つ鳥跡を濁さず",
+      "hiragana": "たつとりあとをにごさず"
     },
     {
-      "kana": "おまえはもう死んでいる",
-      "alphabet": "omaehamousinndeiru"
+      "displayName": "おまえはもう死んでいる",
+      "hiragana": "おまえはもうしんでいる"
     },
     {
-      "kana": "竹馬の友",
-      "alphabet": "tikubanotomo"
+      "displayName": "竹馬の友",
+      "hiragana": "ちくばのとも"
     },
     {
-      "kana": "血も涙もない",
-      "alphabet": "timonamidamonai"
+      "displayName": "血も涙もない",
+      "hiragana": "ちもなみだもない"
     },
     {
-      "kana": "長所は短所",
-      "alphabet": "tyousyohatannsyo"
+      "displayName": "長所は短所",
+      "hiragana": "ちょうしょはたんしょ"
     },
     {
-      "kana": "塵も積もれば山となる",
-      "alphabet": "tirimotumorebayamatonaru"
+      "displayName": "塵も積もれば山となる",
+      "hiragana": "ちりもつもればやまとなる"
     },
     {
-      "kana": "月とすっぽん",
-      "alphabet": "tukitosupponn"
+      "displayName": "月とすっぽん",
+      "hiragana": "つきとすっぽん"
     },
     {
-      "kana": "辻褄を合わせる",
-      "alphabet": "tujitumawoawaseru"
+      "displayName": "辻褄を合わせる",
+      "hiragana": "つじつまをあわせる"
     },
     {
-      "kana": "うっせーうっせーうっせーわ",
-      "alphabet": "usse-usse-usse-wa"
+      "displayName": "うっせーうっせーうっせーわ",
+      "hiragana": "うっせーうっせーうっせーわ"
     },
     {
-      "kana": "敵は本能寺にあり",
-      "alphabet": "tekihahonnnoujiniari"
+      "displayName": "敵は本能寺にあり",
+      "hiragana": "てきはほんのうじにあり"
     },
     {
-      "kana": "鉄は熱いうちに打て",
-      "alphabet": "tetuhaatuiutiniute"
+      "displayName": "鉄は熱いうちに打て",
+      "hiragana": "てつはあついうちにうて"
     },
     {
-      "kana": "手に汗握る",
-      "alphabet": "teniasenigiru"
+      "displayName": "手に汗握る",
+      "hiragana": "てにあせにぎる"
     },
     {
-      "kana": "手も足も出ない",
-      "alphabet": "temoasimodenai"
+      "displayName": "手も足も出ない",
+      "hiragana": "てもあしもでない"
     },
     {
-      "kana": "伝家の宝刀",
-      "alphabet": "dennkanohoutou"
+      "displayName": "伝家の宝刀",
+      "hiragana": "でんかのほうとう"
     },
     {
-      "kana": "天上天下唯我独尊",
-      "alphabet": "tennjoutenngayuigadokusonn"
+      "displayName": "天上天下唯我独尊",
+      "hiragana": "てんじょうてんがゆいがどくそん"
     },
     {
-      "kana": "タイピングゲーム",
-      "alphabet": "taipinnguge-mu"
+      "displayName": "タイピングゲーム",
+      "hiragana": "たいぴんぐげーむ"
     },
     {
-      "kana": "頭角を現す",
-      "alphabet": "toukakuwoarawasu"
+      "displayName": "頭角を現す",
+      "hiragana": "とうかくをあらわす"
     },
     {
-      "kana": "灯台下暗し",
-      "alphabet": "toudaimotogurasi"
+      "displayName": "灯台下暗し",
+      "hiragana": "とうだいもとぐらし"
     },
     {
-      "kana": "毒を食らわば皿まで",
-      "alphabet": "dokuwokurawabasaramade"
+      "displayName": "毒を食らわば皿まで",
+      "hiragana": "どくをくらわばさらまで"
     },
     {
-      "kana": "毒を以て毒を制す",
-      "alphabet": "dokuwomottedokuwoseisu"
+      "displayName": "毒を以て毒を制す",
+      "hiragana": "どくをもってどくをせいす"
     },
     {
-      "kana": "捕らぬ狸の皮算用",
-      "alphabet": "toranutanukinokawazannyou"
+      "displayName": "捕らぬ狸の皮算用",
+      "hiragana": "とらぬたぬきのかわざんよう"
     },
     {
-      "kana": "虎の威を借る狐",
-      "alphabet": "toranoiwokarukitune"
+      "displayName": "虎の威を借る狐",
+      "hiragana": "とらのいをかるきつね"
     },
     {
-      "kana": "どんぐりのせいくらべ",
-      "alphabet": "donngurinoseikurabe"
+      "displayName": "どんぐりのせいくらべ",
+      "hiragana": "どんぐりのせいくらべ"
     },
     {
-      "kana": "飛んで火に入る夏の虫",
-      "alphabet": "tonndehiniirunatunomusi"
+      "displayName": "飛んで火に入る夏の虫",
+      "hiragana": "とんでひにいるなつのむし"
     },
     {
-      "kana": "無い袖は振れない",
-      "alphabet": "naisodehahurenai"
+      "displayName": "無い袖は振れない",
+      "hiragana": "ないそではふれない"
     },
     {
-      "kana": "泣き面に蜂",
-      "alphabet": "nakitturanihati"
+      "displayName": "泣き面に蜂",
+      "hiragana": "なきっつらにはち"
     },
     {
-      "kana": "泣く子は育つ",
-      "alphabet": "nakukohasodatu"
+      "displayName": "泣く子は育つ",
+      "hiragana": "なくこはそだつ"
     },
     {
-      "kana": "泣くまで待とうほととぎす",
-      "alphabet": "nakumadematouhototogisu"
+      "displayName": "泣くまで待とうほととぎす",
+      "hiragana": "なくまでまとうほととぎす"
     },
     {
-      "kana": "二兎を追う者は一兎をも得ず",
-      "alphabet": "nitowooumonohaittowomoezu"
+      "displayName": "二兎を追う者は一兎をも得ず",
+      "hiragana": "にとをおうものはいっとをもえず"
     },
     {
-      "kana": "猫に小判",
-      "alphabet": "nekonikobann"
+      "displayName": "猫に小判",
+      "hiragana": "ねこにこばん"
     },
     {
-      "kana": "猫の手も借りたい",
-      "alphabet": "nekonotemokaritai"
+      "displayName": "猫の手も借りたい",
+      "hiragana": "ねこのてもかりたい"
     },
     {
-      "kana": "寝耳に水",
-      "alphabet": "nemiminimizu"
+      "displayName": "寝耳に水",
+      "hiragana": "ねみみにみず"
     },
     {
-      "kana": "根も葉もない",
-      "alphabet": "nemohamonai"
+      "displayName": "根も葉もない",
+      "hiragana": "ねもはもない"
     },
     {
-      "kana": "年貢の納め時",
-      "alphabet": "nenngunoosamedoki"
+      "displayName": "年貢の納め時",
+      "hiragana": "ねんぐのおさめどき"
     },
     {
-      "kana": "念には念を入れよ",
-      "alphabet": "nennnihanennwoireyo"
+      "displayName": "念には念を入れよ",
+      "hiragana": "ねんにはねんをいれよ"
     },
     {
-      "kana": "脳ある鷹は爪を隠す",
-      "alphabet": "nouarutakahatumekakusu"
+      "displayName": "脳ある鷹は爪を隠す",
+      "hiragana": "のうあるたかはつめかくす"
     },
     {
-      "kana": "残り物には福がある",
-      "alphabet": "nokorimononihahukugaaru"
+      "displayName": "残り物には福がある",
+      "hiragana": "のこりものにはふくがある"
     },
     {
-      "kana": "喉から手が出る",
-      "alphabet": "nodokarategaderu"
+      "displayName": "喉から手が出る",
+      "hiragana": "のどからてがでる"
     },
     {
-      "kana": "乗り掛かった船",
-      "alphabet": "norikakattahune"
+      "displayName": "乗り掛かった船",
+      "hiragana": "のりかかったふね"
     },
     {
-      "kana": "背水の陣",
-      "alphabet": "haisuinojinn"
+      "displayName": "背水の陣",
+      "hiragana": "はいすいのじん"
     },
     {
-      "kana": "馬鹿につける薬はない",
-      "alphabet": "bakanitukerukusurihanai"
+      "displayName": "馬鹿につける薬はない",
+      "hiragana": "ばかにつけるくすりはない"
     },
     {
-      "kana": "馬鹿の一つ覚え",
-      "alphabet": "bakanohitotuoboe"
+      "displayName": "馬鹿の一つ覚え",
+      "hiragana": "ばかのひとつおぼえ"
     },
     {
-      "kana": "拍車をかける",
-      "alphabet": "hakusyawokakeru"
+      "displayName": "拍車をかける",
+      "hiragana": "はくしゃをかける"
     },
     {
-      "kana": "化けの皮がはがれる",
-      "alphabet": "bakenokawagahagareru"
+      "displayName": "化けの皮がはがれる",
+      "hiragana": "ばけのかわがはがれる"
     },
     {
-      "kana": "鳩に豆鉄砲",
-      "alphabet": "hatonimamedeppou"
+      "displayName": "鳩に豆鉄砲",
+      "hiragana": "はとにまめでっぽう"
     },
     {
-      "kana": "話し上手は聞き上手",
-      "alphabet": "hanasijouzuhakikijouzu"
+      "displayName": "話し上手は聞き上手",
+      "hiragana": "はなしじょうずはききじょうず"
     },
     {
-      "kana": "花より団子",
-      "alphabet": "hanayoridanngo"
+      "displayName": "花より団子",
+      "hiragana": "はなよりだんご"
     },
     {
-      "kana": "早起きは三文の得",
-      "alphabet": "hayaokihasannmonnnotoku"
+      "displayName": "早起きは三文の得",
+      "hiragana": "はやおきはさんもんのとく"
     },
     {
-      "kana": "腹が減っては戦ができぬ",
-      "alphabet": "haragahettehaikusagadekinu"
+      "displayName": "腹が減っては戦ができぬ",
+      "hiragana": "はらがへってはいくさができぬ"
     },
     {
-      "kana": "万事休す",
-      "alphabet": "bannjikyuusu"
+      "displayName": "万事休す",
+      "hiragana": "ばんじきゅうす"
     },
     {
-      "kana": "一筋縄で行かぬ",
-      "alphabet": "hitosujinawadeikanu"
+      "displayName": "一筋縄で行かぬ",
+      "hiragana": "ひとすじなわでいかぬ"
     },
     {
-      "kana": "一肌脱ぐ",
-      "alphabet": "hitohadanugu"
+      "displayName": "一肌脱ぐ",
+      "hiragana": "ひとはだぬぐ"
     },
     {
-      "kana": "火に油を注ぐ",
-      "alphabet": "hiniaburawososogu"
+      "displayName": "火に油を注ぐ",
+      "hiragana": "ひにあぶらをそそぐ"
     },
     {
-      "kana": "ロンリーロンリー甘い甘い",
-      "alphabet": "ronnri-ronnri-amaiamai"
+      "displayName": "ロンリーロンリー甘い甘い",
+      "hiragana": "ろんりーろんりーあまいあまい"
     },
     {
-      "kana": "百害あって一利なし",
-      "alphabet": "hyakugaiatteitirinasi"
+      "displayName": "百害あって一利なし",
+      "hiragana": "ひゃくがいあっていちりなし"
     },
     {
-      "kana": "百聞は一見に如かず",
-      "alphabet": "hyakubunnhaikkennnisikazu"
+      "displayName": "百聞は一見に如かず",
+      "hiragana": "ひゃくぶんはいっけんにしかず"
     },
     {
-      "kana": "氷山の一角",
-      "alphabet": "hyouzannnoikkaku"
+      "displayName": "氷山の一角",
+      "hiragana": "ひょうざんのいっかく"
     },
     {
-      "kana": "貧乏暇なし",
-      "alphabet": "binnbouhimanasi"
+      "displayName": "貧乏暇なし",
+      "hiragana": "びんぼうひまなし"
     },
     {
-      "kana": "風前の灯火",
-      "alphabet": "huuzennnotomosibi"
+      "displayName": "風前の灯火",
+      "hiragana": "ふうぜんのともしび"
     },
     {
-      "kana": "覆水盆に帰らず",
-      "alphabet": "hukusuibonnnikaerazu"
+      "displayName": "覆水盆に帰らず",
+      "hiragana": "ふくすいぼんにかえらず"
     },
     {
-      "kana": "踏んだり蹴ったり",
-      "alphabet": "hunndarikettari"
+      "displayName": "踏んだり蹴ったり",
+      "hiragana": "ふんだりけったり"
     },
     {
-      "kana": "弁慶の泣きどころ",
-      "alphabet": "bennkeinonakidokoro"
+      "displayName": "弁慶の泣きどころ",
+      "hiragana": "べんけいのなきどころ"
     },
     {
-      "kana": "棒に振る",
-      "alphabet": "bounihuru"
+      "displayName": "棒に振る",
+      "hiragana": "ぼうにふる"
     },
     {
-      "kana": "穴を掘る",
-      "alphabet": "anawohoru"
+      "displayName": "太陽のメロディー",
+      "hiragana": "たいようのめろでぃー"
     },
     {
-      "kana": "馬子にも衣装",
-      "alphabet": "magonimoisyou"
+      "displayName": "馬子にも衣装",
+      "hiragana": "まごにもいしょう"
     },
     {
-      "kana": "身から出た錆",
-      "alphabet": "mikaradetasabi"
+      "displayName": "身から出た錆",
+      "hiragana": "みからでたさび"
     },
     {
-      "kana": "みざる,きかざる,いわざる",
-      "alphabet": "mizaru,kikazaru,iwazaru"
+      "displayName": "みざる,きかざる,いわざる",
+      "hiragana": "みざる,きかざる,いわざる"
     },
     {
-      "kana": "水を得た魚",
-      "alphabet": "mizuwoetauo"
+      "displayName": "水を得た魚",
+      "hiragana": "みずをえたうお"
     },
     {
-      "kana": "水を差す",
-      "alphabet": "mizuwosasu"
+      "displayName": "水を差す",
+      "hiragana": "みずをさす"
     },
     {
-      "kana": "身も蓋もない",
-      "alphabet": "mimohutamonai"
+      "displayName": "身も蓋もない",
+      "hiragana": "みもふたもない"
     },
     {
-      "kana": "目から鱗が落ちる",
-      "alphabet": "mekaraurokogaotiru"
+      "displayName": "目から鱗が落ちる",
+      "hiragana": "めからうろこがおちる"
     },
     {
-      "kana": "目に入れても痛くない",
-      "alphabet": "meniiretemoitakunai"
+      "displayName": "目に入れても痛くない",
+      "hiragana": "めにいれてもいたくない"
     },
     {
-      "kana": "目には目を歯には歯を",
-      "alphabet": "menihamewohanihahawo"
+      "displayName": "目には目を歯には歯を",
+      "hiragana": "めにはめをはにははを"
     },
     {
-      "kana": "目は口ほどに物を言う",
-      "alphabet": "mehakutihodonimonowoiu"
+      "displayName": "目は口ほどに物を言う",
+      "hiragana": "めはくちほどにものをいう"
     },
     {
-      "kana": "物は言いよう",
-      "alphabet": "monohaiiyou"
+      "displayName": "物は言いよう",
+      "hiragana": "ものはいいよう"
     },
     {
-      "kana": "物は試し",
-      "alphabet": "monohatamesi"
+      "displayName": "物は試し",
+      "hiragana": "ものはためし"
     },
     {
-      "kana": "炎上パンチをくらう",
-      "alphabet": "ennjoupanntiwokurau"
+      "displayName": "炎上パンチをくらう",
+      "hiragana": "えんじょうぱんちをくらう"
     },
     {
-      "kana": "両刃の剣",
-      "alphabet": "morohanoturugi"
+      "displayName": "両刃の剣",
+      "hiragana": "もろはのつるぎ"
     },
     {
-      "kana": "焼け石に水",
-      "alphabet": "yakeisinimizu"
+      "displayName": "焼け石に水",
+      "hiragana": "やけいしにみず"
     },
     {
-      "kana": "薮から棒",
-      "alphabet": "yabukarabou"
+      "displayName": "薮から棒",
+      "hiragana": "やぶからぼう"
     },
     {
-      "kana": "病は気から",
-      "alphabet": "yamaihakikara"
+      "displayName": "病は気から",
+      "hiragana": "やまいはきから"
     },
     {
-      "kana": "有終の美",
-      "alphabet": "yuusyuunobi"
+      "displayName": "有終の美",
+      "hiragana": "ゆうしゅうのび"
     },
     {
-      "kana": "横槍を入れる",
-      "alphabet": "yokoyariwoireru"
+      "displayName": "横槍を入れる",
+      "hiragana": "よこやりをいれる"
     },
     {
-      "kana": "楽あれば苦あり",
-      "alphabet": "rakuarebakuari"
+      "displayName": "楽あれば苦あり",
+      "hiragana": "らくあればくあり"
     },
     {
-      "kana": "らちがあかない",
-      "alphabet": "ratigaakanai"
+      "displayName": "らちがあかない",
+      "hiragana": "らちがあかない"
     },
     {
-      "kana": "両手に花",
-      "alphabet": "ryoutenihana"
+      "displayName": "両手に花",
+      "hiragana": "りょうてにはな"
     },
     {
-      "kana": "良薬は口に苦し",
-      "alphabet": "ryouyakuhakutininigasi"
+      "displayName": "良薬は口に苦し",
+      "hiragana": "りょうやくはくちににがし"
     },
     {
-      "kana": "類は友を呼ぶ",
-      "alphabet": "ruihatomowoyobu"
+      "displayName": "類は友を呼ぶ",
+      "hiragana": "るいはともをよぶ"
     },
     {
-      "kana": "ローマは一日にしてならず",
-      "alphabet": "ro-mahaitinitinisitenarazu"
+      "displayName": "ローマは一日にしてならず",
+      "hiragana": "ろーまはいちにちにしてならず"
     },
     {
-      "kana": "論より証拠",
-      "alphabet": "ronnyorisyouko"
+      "displayName": "論より証拠",
+      "hiragana": "ろんよりしょうこ"
     },
     {
-      "kana": "渡る世間に鬼はない",
-      "alphabet": "watarusekennnionihanai"
+      "displayName": "渡る世間に鬼はない",
+      "hiragana": "わたるせけんにおにはない"
     },
     {
-      "kana": "笑う角には福来たる",
-      "alphabet": "waraukadonihahukukitaru"
+      "displayName": "笑う角には福来たる",
+      "hiragana": "わらうかどにはふくきたる"
     },
     {
-      "kana": "インターフェース",
-      "alphabet": "innta-fe-su"
+      "displayName": "インターフェース",
+      "hiragana": "いんたーふぇーす"
     },
     {
-      "kana": "プラットフォーム",
-      "alphabet": "purattofo-mu"
+      "displayName": "プラットフォーム",
+      "hiragana": "ぷらっとふぉーむ"
     },
     {
-      "kana": "トップレベルドメイン",
-      "alphabet": "toppureberudomeinn"
+      "displayName": "トップレベルドメイン",
+      "hiragana": "とっぷれべるどめいん"
     },
     {
-      "kana": "アーキテクチャ",
-      "alphabet": "a-kitekutya"
+      "displayName": "アーキテクチャ",
+      "hiragana": "あーきてくちゃ"
     },
     {
-      "kana": "元気があれば何でもできる",
-      "alphabet": "gennkigaarebananndemodekiru"
+      "displayName": "元気があれば何でもできる",
+      "hiragana": "げんきがあればなんでもできる"
     },
     {
-      "kana": "アルゴリズム",
-      "alphabet": "arugorizumu"
+      "displayName": "アルゴリズム",
+      "hiragana": "あるごりずむ"
     },
     {
-      "kana": "暗号理論",
-      "alphabet": "anngourironn"
+      "displayName": "暗号理論",
+      "hiragana": "あんごうりろん"
     },
     {
-      "kana": "イーサネット",
-      "alphabet": "i-sanetto"
+      "displayName": "イーサネット",
+      "hiragana": "いーさねっと"
     },
     {
-      "kana": "イントラネット",
-      "alphabet": "intoranetto"
+      "displayName": "イントラネット",
+      "hiragana": "いんとらねっと"
     },
     {
-      "kana": "インターネット",
-      "alphabet": "innta-netto"
+      "displayName": "インターネット",
+      "hiragana": "いんたーねっと"
     },
     {
-      "kana": "オペレーティングシステム",
-      "alphabet": "opere-thingusisutemu"
+      "displayName": "オペレーティングシステム",
+      "hiragana": "おぺれーてぃんぐしすてむ"
     },
     {
-      "kana": "拡張現実",
-      "alphabet": "kakutyougennjitu"
+      "displayName": "拡張現実",
+      "hiragana": "かくちょうげんじつ"
     },
     {
-      "kana": "拡張子",
-      "alphabet": "kakutyousi"
+      "displayName": "拡張子",
+      "hiragana": "かくちょうし"
     },
     {
-      "kana": "仮想記憶",
-      "alphabet": "kasoukioku"
+      "displayName": "仮想記憶",
+      "hiragana": "かそうきおく"
     },
     {
-      "kana": "ガベージコレクション",
-      "alphabet": "gabe-jikorekusyonn"
+      "displayName": "ガベージコレクション",
+      "hiragana": "がべーじこれくしょん"
     },
     {
-      "kana": "組み込みシステム",
-      "alphabet": "kumikomisisutemu"
+      "displayName": "組み込みシステム",
+      "hiragana": "くみこみしすてむ"
     },
     {
-      "kana": "クライアント",
-      "alphabet": "kuraiannto"
+      "displayName": "クライアント",
+      "hiragana": "くらいあんと"
     },
     {
-      "kana": "グラフ理論",
-      "alphabet": "gurahurironn"
+      "displayName": "グラフ理論",
+      "hiragana": "ぐらふりろん"
     },
     {
-      "kana": "クロスサイトスクリプティング",
-      "alphabet": "kurosusaitosukuriputhinngu"
+      "displayName": "クロスサイトスクリプティング",
+      "hiragana": "くろすさいとすくりぷてぃんぐ"
     },
     {
-      "kana": "検索エンジン",
-      "alphabet": "kennsakuennjinn"
+      "displayName": "検索エンジン",
+      "hiragana": "けんさくえんじん"
     },
     {
-      "kana": "プログラミング言語",
-      "alphabet": "proguraminngugenngo"
+      "displayName": "プログラミング言語",
+      "hiragana": "ぷろぐらみんぐげんご"
     },
     {
-      "kana": "公開鍵",
-      "alphabet": "koukaikagi"
+      "displayName": "公開鍵",
+      "hiragana": "こうかいかぎ"
     },
     {
-      "kana": "コンパイラ",
-      "alphabet": "konnpaira"
+      "displayName": "コンパイラ",
+      "hiragana": "こんぱいら"
     },
     {
-      "kana": "コンピューターウイルス",
-      "alphabet": "konnpyu-ta-uirusu"
+      "displayName": "コンピューターウイルス",
+      "hiragana": "こんぴゅーたーういるす"
     },
     {
-      "kana": "サーバー",
-      "alphabet": "sa-ba-"
+      "displayName": "サーバー",
+      "hiragana": "さーばー"
     },
     {
-      "kana": "磁気ディスク",
-      "alphabet": "jikidhisuku"
+      "displayName": "磁気ディスク",
+      "hiragana": "じきでぃすく"
     },
     {
-      "kana": "チョー気持ちいい",
-      "alphabet": "tyo-kimotiii"
+      "displayName": "チョー気持ちいい",
+      "hiragana": "ちょーきもちいい"
     },
     {
-      "kana": "地球は青かった",
-      "alphabet": "tikyuuhaaokatta"
+      "displayName": "地球は青かった",
+      "hiragana": "ちきゅうはあおかった"
     },
     {
-      "kana": "主記憶装置",
-      "alphabet": "syukiokusouti"
+      "displayName": "主記憶装置",
+      "hiragana": "しゅきおくそうち"
     },
     {
-      "kana": "周辺機器",
-      "alphabet": "syuuhennkiki"
+      "displayName": "周辺機器",
+      "hiragana": "しゅうへんきき"
     },
     {
-      "kana": "情報化社会",
-      "alphabet": "jouhoukasyakai"
+      "displayName": "情報化社会",
+      "hiragana": "じょうほうかしゃかい"
     },
     {
-      "kana": "人工知能",
-      "alphabet": "jinnkoutinou"
+      "displayName": "人工知能",
+      "hiragana": "じんこうちのう"
     },
     {
-      "kana": "スタック",
-      "alphabet": "sutakku"
+      "displayName": "スタック",
+      "hiragana": "すたっく"
     },
     {
-      "kana": "セキュリティーホール",
-      "alphabet": "sekyurithi-ho-ru"
+      "displayName": "セキュリティーホール",
+      "hiragana": "せきゅりてぃーほーる"
     },
     {
-      "kana": "ビット",
-      "alphabet": "bitto"
+      "displayName": "ビット",
+      "hiragana": "びっと"
     },
     {
-      "kana": "データ圧縮",
-      "alphabet": "de-taassyuku"
+      "displayName": "データ圧縮",
+      "hiragana": "でーたあっしゅく"
     },
     {
-      "kana": "通信プロトコル",
-      "alphabet": "tuusinnpurotokoru"
+      "displayName": "通信プロトコル",
+      "hiragana": "つうしんぷろとこる"
     },
     {
-      "kana": "電子媒体",
-      "alphabet": "dennsibaitai"
+      "displayName": "電子媒体",
+      "hiragana": "でんしばいたい"
     },
     {
-      "kana": "トロイの木馬",
-      "alphabet": "toroinomokuba"
+      "displayName": "トロイの木馬",
+      "hiragana": "とろいのもくば"
     },
     {
-      "kana": "排他制御",
-      "alphabet": "haitaseigyo"
+      "displayName": "排他制御",
+      "hiragana": "はいたせいぎょ"
     },
     {
-      "kana": "バイト",
-      "alphabet": "baito"
+      "displayName": "バイト",
+      "hiragana": "ばいと"
     },
     {
-      "kana": "バグ",
-      "alphabet": "bagu"
+      "displayName": "バグ",
+      "hiragana": "ばぐ"
     },
     {
-      "kana": "ハッキング",
-      "alphabet": "hakkinngu"
+      "displayName": "ハッキング",
+      "hiragana": "はっきんぐ"
     },
     {
-      "kana": "ビッグデータ",
-      "alphabet": "biggude-ta"
+      "displayName": "ビッグデータ",
+      "hiragana": "びっぐでーた"
     },
     {
-      "kana": "データベース",
-      "alphabet": "de-tabe-su"
+      "displayName": "データベース",
+      "hiragana": "でーたべーす"
     },
     {
-      "kana": "フラグメンテーション",
-      "alphabet": "huragumennte-syonn"
+      "displayName": "フラグメンテーション",
+      "hiragana": "ふらぐめんてーしょん"
     },
     {
-      "kana": "補助記憶装置",
-      "alphabet": "hojokiokusouti"
+      "displayName": "補助記憶装置",
+      "hiragana": "ほじょきおくそうち"
     },
     {
-      "kana": "マイクロプロセッサ",
-      "alphabet": "maikuropurosessa"
+      "displayName": "マイクロプロセッサ",
+      "hiragana": "まいくろぷろせっさ"
     },
     {
-      "kana": "無線LAN",
-      "alphabet": "musennrann"
+      "displayName": "無線LAN",
+      "hiragana": "むせんらん"
     },
     {
-      "kana": "文字コード",
-      "alphabet": "mojiko-do"
+      "displayName": "文字コード",
+      "hiragana": "もじこーど"
     },
     {
-      "kana": "モバイルエージェント",
-      "alphabet": "mobairue-jennto"
+      "displayName": "モバイルエージェント",
+      "hiragana": "もばいるえーじぇんと"
     },
     {
-      "kana": "ユーザーインターフェース",
-      "alphabet": "yu-za-innta-fe-su"
+      "displayName": "ユーザーインターフェース",
+      "hiragana": "ゆーざーいんたーふぇーす"
     },
     {
-      "kana": "量子コンピューター",
-      "alphabet": "ryousikonnpyu-ta-"
+      "displayName": "量子コンピューター",
+      "hiragana": "りょうしこんぴゅーたー"
     },
     {
-      "kana": "アセンブラ",
-      "alphabet": "asennbura"
+      "displayName": "アセンブラ",
+      "hiragana": "あせんぶら"
     },
     {
-      "kana": "いたずらスクリプト",
-      "alphabet": "itazurasukuriputo"
+      "displayName": "いたずらスクリプト",
+      "hiragana": "いたずらすくりぷと"
     },
     {
-      "kana": "オブジェクト指向",
-      "alphabet": "obujekutosikou"
+      "displayName": "オブジェクト指向",
+      "hiragana": "おぶじぇくとしこう"
     },
     {
-      "kana": "サラダ記念日",
-      "alphabet": "saradakinennbi"
+      "displayName": "サラダ記念日",
+      "hiragana": "さらだきねんび"
     },
     {
-      "kana": "新古今和歌集",
-      "alphabet": "sinnkokinnwakasyuu"
+      "displayName": "新古今和歌集",
+      "hiragana": "しんこきんわかしゅう"
     },
     {
-      "kana": "メディアリテラシー",
-      "alphabet": "medhiariterasi-"
+      "displayName": "メディアリテラシー",
+      "hiragana": "めでぃありてらしー"
     },
     {
-      "kana": "吾輩は猫である",
-      "alphabet": "wagahaihanekodearu"
+      "displayName": "吾輩は猫である",
+      "hiragana": "わがはいはねこである"
     },
     {
-      "kana": "山椒魚",
-      "alphabet": "sannsyouuo"
+      "displayName": "山椒魚",
+      "hiragana": "さんしょううお"
     },
     {
-      "kana": "ウーパールーパー",
-      "alphabet": "u-pa-ru-pa-"
+      "displayName": "ウーパールーパー",
+      "hiragana": "うーぱーるーぱー"
     },
     {
-      "kana": "ビッグバン",
-      "alphabet": "biggubann"
+      "displayName": "ビッグバン",
+      "hiragana": "びっぐばん"
     },
     {
-      "kana": "モチモチの木",
-      "alphabet": "motimotinoki"
+      "displayName": "モチモチの木",
+      "hiragana": "もちもちのき"
     },
     {
-      "kana": "ちいちゃんのかげおくり",
-      "alphabet": "tiityannnokageokuri"
+      "displayName": "ちいちゃんのかげおくり",
+      "hiragana": "ちいちゃんのかげおくり"
     },
     {
-      "kana": "ミロのヴィーナス",
-      "alphabet": "mironovi-nasu"
+      "displayName": "ミロのヴィーナス",
+      "hiragana": "みろのゔぃーなす"
     },
     {
-      "kana": "羅生門",
-      "alphabet": "rasyoumonn"
+      "displayName": "羅生門",
+      "hiragana": "らしょうもん"
     },
     {
-      "kana": "少年の日の思い出",
-      "alphabet": "syounennnohinoomoide"
+      "displayName": "少年の日の思い出",
+      "hiragana": "しょうねんのひのおもいで"
     },
     {
-      "kana": "アインシュタイン",
-      "alphabet": "ainnsyutainn"
+      "displayName": "アインシュタイン",
+      "hiragana": "あいんしゅたいん"
     },
     {
-      "kana": "三平方の定理",
-      "alphabet": "sannheihounoteiri"
+      "displayName": "三平方の定理",
+      "hiragana": "さんへいほうのていり"
     },
     {
-      "kana": "因数分解",
-      "alphabet": "innsuubunnkai"
+      "displayName": "因数分解",
+      "hiragana": "いんすうぶんかい"
     },
     {
-      "kana": "ドモルガンの法則",
-      "alphabet": "domorugannnohousoku"
+      "displayName": "ドモルガンの法則",
+      "hiragana": "どもるがんのほうそく"
     },
     {
-      "kana": "サインコサインタンジェント",
-      "alphabet": "sainnkosainntannjennto"
+      "displayName": "サインコサインタンジェント",
+      "hiragana": "さいんこさいんたんじぇんと"
     },
     {
-      "kana": "標準偏差",
-      "alphabet": "hyoujunnhennsa"
+      "displayName": "標準偏差",
+      "hiragana": "ひょうじゅんへんさ"
     },
     {
-      "kana": "相関係数",
-      "alphabet": "soukannkeisuu"
+      "displayName": "相関係数",
+      "hiragana": "そうかんけいすう"
     },
     {
-      "kana": "微分積分",
-      "alphabet": "bibunnsekibunn"
+      "displayName": "微分積分",
+      "hiragana": "びぶんせきぶん"
     },
     {
-      "kana": "曲がりくねった道の先",
-      "alphabet": "magarikunettamitinosaki"
+      "displayName": "曲がりくねった道の先",
+      "hiragana": "まがりくねったみちのさき"
     },
     {
-      "kana": "以心伝心",
-      "alphabet": "isinndennsinn"
+      "displayName": "以心伝心",
+      "hiragana": "いしんでんしん"
     },
     {
-      "kana": "温故知新",
-      "alphabet": "onnkotisinn"
+      "displayName": "温故知新",
+      "hiragana": "おんこちしん"
     },
     {
-      "kana": "四面楚歌",
-      "alphabet": "simennsoka"
+      "displayName": "四面楚歌",
+      "hiragana": "しめんそか"
     },
     {
-      "kana": "大器晩成",
-      "alphabet": "taikibannsei"
+      "displayName": "大器晩成",
+      "hiragana": "たいきばんせい"
     },
     {
-      "kana": "しゃにむに",
-      "alphabet": "syanimuni"
+      "displayName": "しゃにむに",
+      "hiragana": "しゃにむに"
     },
     {
-      "kana": "有言実行",
-      "alphabet": "yuugennjikkou"
+      "displayName": "有言実行",
+      "hiragana": "ゆうげんじっこう"
     },
     {
-      "kana": "旅客機",
-      "alphabet": "ryokakki"
+      "displayName": "見た目は子供頭脳は大人",
+      "hiragana": "みためはこどもずのうはおとな"
     },
     {
-      "kana": "見誤った",
-      "alphabet": "miayamatta"
+      "displayName": "見誤った",
+      "hiragana": "みあやまった"
     },
     {
-      "kana": "取捨選択",
-      "alphabet": "syusyasentaku"
+      "displayName": "取捨選択",
+      "hiragana": "しゅしゃせんたく"
     },
     {
-      "kana": "トリニダードトバゴ",
-      "alphabet": "torinida-dotobago"
+      "displayName": "トリニダードトバゴ",
+      "hiragana": "とりにだーどとばご"
     },
     {
-      "kana": "マサチューセッツ州",
-      "alphabet": "masatyu-settusyuu"
+      "displayName": "マサチューセッツ州",
+      "hiragana": "まさちゅーせっつしゅう"
     },
     {
-      "kana": "六カ国協議",
-      "alphabet": "rokkakokukyougi"
+      "displayName": "六カ国協議",
+      "hiragana": "ろっかこくきょうぎ"
     },
     {
-      "kana": "濃厚接触者",
-      "alphabet": "noukousessyokusya"
+      "displayName": "濃厚接触者",
+      "hiragana": "のうこうせっしょくしゃ"
     },
     {
-      "kana": "国家戦略局",
-      "alphabet": "kokkasennryakukyoku"
+      "displayName": "国家戦略局",
+      "hiragana": "こっかせんりゃくきょく"
     },
     {
-      "kana": "骨粗鬆症",
-      "alphabet": "kossosyousyou"
+      "displayName": "骨粗鬆症",
+      "hiragana": "こっそしょうしょう"
     },
     {
-      "kana": "摘出手術",
-      "alphabet": "tekisyutusyujutu"
+      "displayName": "摘出手術",
+      "hiragana": "てきしゅつしゅじゅつ"
     },
     {
-      "kana": "基本情報技術者試験",
-      "alphabet": "kihonnjouhougijutusyasikenn"
+      "displayName": "基本情報技術者試験",
+      "hiragana": "きほんじょうほうぎじゅつしゃしけん"
     },
     {
-      "kana": "応用情報技術者試験",
-      "alphabet": "ouyoujouhougijutusyasikenn"
+      "displayName": "応用情報技術者試験",
+      "hiragana": "おうようじょうほうぎじゅつしゃしけん"
     },
     {
-      "kana": "きゃりーぱみゅぱみゅ",
-      "alphabet": "kyari-pamyupamyu"
+      "displayName": "きゃりーぱみゅぱみゅ",
+      "hiragana": "きゃりーぱみゅぱみゅ"
     },
     {
-      "kana": "ゴルバチョフ書記長",
-      "alphabet": "gorubatyohusyokityou"
+      "displayName": "ゴルバチョフ書記長",
+      "hiragana": "ごるばちょふしょきちょう"
     },
     {
-      "kana": "出場",
-      "alphabet": "syutujou"
+      "displayName": "甲子園出場",
+      "hiragana": "こうしえんしゅつじょう"
     },
     {
-      "kana": "肩たたき機",
-      "alphabet": "katatatakiki"
+      "displayName": "肩たたき機",
+      "hiragana": "かたたたきき"
     },
     {
-      "kana": "赤坂サカス",
-      "alphabet": "akasakasakasu"
+      "displayName": "赤坂サカス",
+      "hiragana": "あかさかさかす"
     },
     {
-      "kana": "シャア少佐",
-      "alphabet": "syaasyousa"
+      "displayName": "シャア少佐",
+      "hiragana": "しゃあしょうさ"
     },
     {
-      "kana": "詳細を調査中",
-      "alphabet": "syousaiwotyousatyuu"
+      "displayName": "詳細を調査中",
+      "hiragana": "しょうさいをちょうさちゅう"
     },
     {
-      "kana": "旅行業協会",
-      "alphabet": "ryokougyoukyoukai"
+      "displayName": "旅行業協会",
+      "hiragana": "りょこうぎょうきょうかい"
     },
     {
-      "kana": "格差社会",
-      "alphabet": "kakusasyakai"
+      "displayName": "格差社会",
+      "hiragana": "かくさしゃかい"
     },
     {
-      "kana": "卒業証書授与",
-      "alphabet": "sotugyousyousyojuyo"
+      "displayName": "卒業証書授与",
+      "hiragana": "そつぎょうしょうしょじゅよ"
     },
     {
-      "kana": "少数精鋭",
-      "alphabet": "syousuuseiei"
+      "displayName": "少数精鋭",
+      "hiragana": "しょうすうせいえい"
     },
     {
-      "kana": "野球部主将",
-      "alphabet": "yakyuubusyusyou"
+      "displayName": "野球部主将",
+      "hiragana": "やきゅうぶしゅしょう"
     },
     {
-      "kana": "ロロノアゾロ",
-      "alphabet": "roronoazoro"
+      "displayName": "ロロノアゾロ",
+      "hiragana": "ろろのあぞろ"
     },
     {
-      "kana": "アルバム収録曲",
-      "alphabet": "arubamusyuurokukyoku"
+      "displayName": "アルバム収録曲",
+      "hiragana": "あるばむしゅうろくきょく"
     },
     {
-      "kana": "完成披露試写会",
-      "alphabet": "kannseihirousisyakai"
+      "displayName": "完成披露試写会",
+      "hiragana": "かんせいひろうししゃかい"
     },
     {
-      "kana": "リクガメ",
-      "alphabet": "rikugame"
+      "displayName": "リクガメ",
+      "hiragana": "りくがめ"
     },
     {
-      "kana": "風林火山",
-      "alphabet": "huurinnkazann"
+      "displayName": "風林火山",
+      "hiragana": "ふうりんかざん"
     },
     {
-      "kana": "リアクト",
-      "alphabet": "react"
+      "displayName": "折れかけのペンで",
+      "hiragana": "おれかけのぺんで"
     }
   ]
 }

@@ -15,6 +15,7 @@ const Note = () => {
             <p className="note__description">{Strings.HOME_NOTE_INTRODUCTION}</p>
             <p className="note__description">{Strings.HOME_NOTE_METHOD}</p>
             <p className="note__description">{Strings.HOME_NOTE_QUESTIONS}</p>
+            <p className="note__description">{Strings.HOME_NOTE_TYPE_KIND}</p>
             <p className="note__description--red">{Strings.HOME_NOTE_PRIVACY}</p>
             <p className="note__description--red">{Strings.HOME_NOTE_RESPONSIBILITY}</p>
             <p className="note__description">{Strings.HOME_NOTE_CONTACT}</p>

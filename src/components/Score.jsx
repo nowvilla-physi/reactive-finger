@@ -1,30 +1,38 @@
 import React, { useState } from 'react';
 import '../assets/sass/score.scss';
 import * as Strings from '../strings';
-import { Button } from "./index";
-import { useHistory } from "react-router-dom";
+import { Button } from './index';
+import { useHistory } from 'react-router-dom';
 import { db, FirebaseTimestamp } from '../firebase/index';
+import { useDispatch, useSelector } from 'react-redux';
+import { getCorrectType, getIncorrectType, getTypeSpeed } from '../reducks/games/selectors';
+import actions from '../reducks/games/actions';
 
-const Score = (props) => {
-    const [isOpen, setIsOpen] = useState(false)
-    const [name, setName] = useState("")
+const Score = () => {
+    const dispatch = useDispatch();
+    const selector = useSelector(state => state);
+    const typeSpeed = getTypeSpeed(selector);
+    const correctType = getCorrectType(selector);
+    const incorrectType = getIncorrectType(selector);
+    const [isOpen, setIsOpen] = useState(false);
+    const [name, setName] = useState('');
 
     const handleOnChange = (e) => {
         setName(e.target.value);
     };
 
     const openRegisterForm = () => {
-        setIsOpen(prevIsOpen => !prevIsOpen)
-    }
+        setIsOpen(prevIsOpen => !prevIsOpen);
+    };
 
     const registerScore = (async () => {
         if (name.trim().length > 0) {
             await db.collection('score')
                 .add({
                     name: name,
-                    typeSpeed: props.location.state.typeSpeed,
-                    correctType: props.location.state.correctType,
-                    incorrectType: props.location.state.incorrectType,
+                    typeSpeed: typeSpeed,
+                    correctType: correctType,
+                    incorrectType: incorrectType,
                     playDate: FirebaseTimestamp.now()
                 }).then(() => {
                     alert(Strings.SCORE_REGISTER_SUCCESS);
@@ -32,7 +40,7 @@ const Score = (props) => {
                 }).catch((error) => {
                     console.log(error);
                     alert(Strings.SCORE_REGISTER_FAIL);
-                })
+                });
         } else {
             alert(Strings.SCORE_REGISTER_ALERT);
         }
@@ -40,6 +48,7 @@ const Score = (props) => {
 
     const history = useHistory();
     const toStart = () => {
+        dispatch(actions.resetGame());
         history.push(Strings.START_TYPING_URL);
     };
 
@@ -51,19 +60,19 @@ const Score = (props) => {
                     <div className="score__score-item">
                         <h3 className="score__score-item-label">{ Strings.SCORE_TYPE_SPEED }</h3>
                         <p className="score__score-item-result">
-                            { props.location.state.typeSpeed } <span className="score__score-item-unit">{ Strings.SCORE_TYPE_PER_SECOND_UNIT }</span>
+                            { typeSpeed } <span className="score__score-item-unit">{ Strings.SCORE_TYPE_PER_SECOND_UNIT }</span>
                         </p>
                     </div>
                     <div className="score__score-item">
                         <h3 className="score__score-item-label">{ Strings.SCORE_CORRECT_TYPE }</h3>
                         <p className="score__score-item-result">
-                            { props.location.state.correctType } <span className="score__score-item-unit">{ Strings.SCORE_TYPE_UNIT }</span>
+                            { correctType } <span className="score__score-item-unit">{ Strings.SCORE_TYPE_UNIT }</span>
                         </p>
                     </div>
                     <div className="score__score-item">
                         <h3 className="score__score-item-label">{ Strings.SCORE_INCORRECT_TYPE }</h3>
                         <p className="score__score-item-result">
-                            { props.location.state.incorrectType } <span className="score__score-item-unit">{ Strings.SCORE_TYPE_UNIT }</span>
+                            { incorrectType } <span className="score__score-item-unit">{ Strings.SCORE_TYPE_UNIT }</span>
                         </p>
                     </div>
                 </div>

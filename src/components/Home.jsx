@@ -3,11 +3,15 @@ import '../assets/sass/home.scss';
 import '../assets/sass/note.scss';
 import { Button, EnterKey, Key, Note } from '../components/index';
 import * as Strings from '../strings';
+import actions from "../reducks/games/actions";
+import { useDispatch } from "react-redux";
 
 const Home = () => {
+    const dispatch = useDispatch();
     const history = useHistory();
 
     const toStart = () => {
+        dispatch(actions.resetGame());
         history.push(Strings.START_TYPING_URL)
     }
 
