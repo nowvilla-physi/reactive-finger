@@ -3,7 +3,7 @@ import { useHistory } from 'react-router-dom';
 import '../assets/sass/start-typing.scss';
 import { Button, Typing } from '../components/index';
 import * as Strings from '../strings';
-import {useDispatch, useSelector} from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import { getSolvedCount } from "../reducks/games/selectors";
 import actions from "../reducks/games/actions";
 
