@@ -19,7 +19,7 @@ export const START_TIMER_UNIT = '秒';
 // タイピング画面
 export const TYPING_INIT_PREPARE_KEYBOARD = 'キーボードを準備してください！';
 export const TYPING_INIT_PUSH_SPACE_KEY = 'Spaceキーで開始します';
-export const TYPING_INIT_PUSH_ESCAPE_KEY = 'Escキーでゲームをリセットできます';
+export const TYPING_INIT_PUSH_ESCAPE_KEY = 'Escキー長押しでリセットできます';
 export const TYPING_FINISH = '終了！！！';
 export const TYPING_FINISH_CALCULATING = '結果を計算中です...';
 

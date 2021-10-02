@@ -5,12 +5,14 @@ import solved_question from '../assets/audio/solved_question.mp3';
 import actions from '../reducks/games/actions';
 import { useDispatch, useSelector } from 'react-redux';
 import { getIsStart } from '../reducks/games/selectors';
+import { useHistory } from "react-router-dom";
 
 const keyFail = new Audio(key_fail);
 const solvedQuestion = new Audio(solved_question);
 
 const useKeyMatcher = (addCorrectType, addIncorrectType, typeKindList) => {
     const dispatch = useDispatch();
+    const history = useHistory();
     const selector = useSelector(state => state);
     const isStart = getIsStart(selector);
     const [inputtedStr, setInputtedStr] = useState('');
@@ -35,9 +37,7 @@ const useKeyMatcher = (addCorrectType, addIncorrectType, typeKindList) => {
         // escキー
         if (e.which === 27) {
             if (isStart !== 0) {
-                setInputtedStr('');
-                setInputtedFullStr('');
-                dispatch(actions.resetGame());
+                history.go(0)
             }
             return;
         // スペースキー
